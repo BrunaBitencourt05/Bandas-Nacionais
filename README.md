@@ -68,7 +68,7 @@ Um agradecimento especial aos professores **Rafaella Ballerini**, **Guilherme Li
 
 ## Contato
 
-Para mais informações ou sugestões, entre em contato com: [BrunaBitencourt@gmail.com](mailto:bsbu7670@gmail.com).
+Para mais informações ou sugestões, entre em contato com: [bsbu7670@gmail.comm](mailto:bsbu7670@gmail.com).
 
 ## Licença
 
