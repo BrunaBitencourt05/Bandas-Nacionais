@@ -1,4 +1,4 @@
-# Bandas Nacionais
+# Bandas Nacionais- Imersão Dev com Google Gemini
 
 **Bandas Nacionais** é um site que permite explorar e pesquisar informações sobre três bandas brasileiras famosas: Raimundos, Charlie Brown Jr. e Legião Urbana. O projeto foi desenvolvido como parte do curso Imersão Dev com Google Gemini da Alura.
 
